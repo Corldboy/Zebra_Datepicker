@@ -83,7 +83,7 @@
                 custom_classes: false,
 
                 //  days of the week; Sunday to Saturday
-                days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+                days: ['\u65e5', '\u4e00', '\u4e8c', '\u4e09', '\u56db', '\u4e94', '\u516d'],
 
                 //  by default, the abbreviated name of a day consists of the first 2 letters from the day's full name;
                 //  while this is common for most languages, there are also exceptions for languages like Thai, Loa, Myanmar,
@@ -277,10 +277,10 @@
                 inside: true,
 
                 //  the caption for the "Clear" button
-                lang_clear_date: 'Clear date',
+                lang_clear_date: '\u6e05\u9664',
 
                 //  months names
-                months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+                months: ['\u4e00\u6708', '\u4e8c\u6708', '\u4e09\u6708', '\u56db\u6708', '\u4e94\u6708', '\u516d\u6708', '\u4e03\u6708', '\u516b\u6708', '\u4e5d\u6708', '\u5341\u6708', '\u5341\u4e00\u6708', '\u5341\u4e8c\u6708'],
 
                 //  by default, the abbreviated name of a month consists of the first 3 letters from the month's full name;
                 //  while this is common for most languages, there are also exceptions for languages like Thai, Loa, Myanmar,
@@ -378,7 +378,7 @@
                 //  caption for the button; setting it to FALSE will disable the button
                 //
                 //  default is "Today"
-                show_select_today: 'Today',
+                show_select_today: '\u4eca\u5929',
 
                 //  should an extra column be shown, showing the number of each week?
                 //  anything other than FALSE will enable this feature, and use the given value as column title
